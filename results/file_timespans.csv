@@ -1,0 +1,229 @@
+source_file,city,label,t0,t1,n,file
+bus_jeddah_008.csv,jeddah,bus,57004,63259,68810,bus_jeddah_008
+bus_jeddah_009.csv,jeddah,bus,67324,69789,28607,bus_jeddah_009
+bus_jeddah_010.csv,jeddah,bus,57031,63262,68570,bus_jeddah_010
+bus_jeddah_011.csv,jeddah,bus,67574,69834,26052,bus_jeddah_011
+car_jeddah_029.csv,jeddah,car,73203,74731,17191,car_jeddah_029
+car_jeddah_030.csv,jeddah,car,48342,55542,90081,car_jeddah_030
+car_jeddah_031.csv,jeddah,car,1798,2397,6582,car_jeddah_031
+car_jeddah_032.csv,jeddah,car,72228,75913,44202,car_jeddah_032
+car_jeddah_033.csv,jeddah,car,3615,7804,50600,car_jeddah_033
+car_jeddah_034.csv,jeddah,car,3645,7828,49869,car_jeddah_034
+car_jeddah_035.csv,jeddah,car,5213,9507,51410,car_jeddah_035
+car_jeddah_036.csv,jeddah,car,5362,9529,50253,car_jeddah_036
+car_jeddah_037.csv,jeddah,car,62268,64940,33010,car_jeddah_037
+car_jeddah_038.csv,jeddah,car,64240,67391,39048,car_jeddah_038
+car_jeddah_039.csv,jeddah,car,70616,72343,20237,car_jeddah_039
+car_jeddah_040.csv,jeddah,car,70606,72363,20322,car_jeddah_040
+car_jeddah_041.csv,jeddah,car,77160,78794,18443,car_jeddah_041
+walk_jeddah_069.csv,jeddah,walk,74504,80566,69111,walk_jeddah_069
+walk_jeddah_070.csv,jeddah,walk,63814,67528,39163,walk_jeddah_070
+walk_jeddah_071.csv,jeddah,walk,63807,67555,40068,walk_jeddah_071
+walk_jeddah_072.csv,jeddah,walk,74498,80565,72145,walk_jeddah_072
+bike 0.csv,kaust,bike,46329,47194,16895,bike 0
+bike 1.csv,kaust,bike,66418,69697,61727,bike 1
+bike 10.csv,kaust,bike,32518,34442,38769,bike 10
+bike 11.csv,kaust,bike,66197,67245,19032,bike 11
+bike 12.csv,kaust,bike,30169,30927,14242,bike 12
+bike 13.csv,kaust,bike,59995,61993,40032,bike 13
+bike 15.csv,kaust,bike,53508,54276,14970,bike 15
+bike 16.csv,kaust,bike,66103,66813,12917,bike 16
+bike 17.csv,kaust,bike,65225,65867,12678,bike 17
+bike 2.csv,kaust,bike,62598,69799,129998,bike 2
+bike 3.csv,kaust,bike,4258,6331,37085,bike 3
+bike 4.csv,kaust,bike,74536,75743,18791,bike 4
+bike 5.csv,kaust,bike,41047,41897,16592,bike 5
+bike 6.csv,kaust,bike,60015,61822,33726,bike 6
+bike 7.csv,kaust,bike,39106,39874,15077,bike 7
+bike 8.csv,kaust,bike,71171,72418,24744,bike 8
+bike 9.csv,kaust,bike,0,86399,85326,bike 9
+bus1phone1.1.csv,kaust,bus,81210,84642,54332,bus1phone1.1
+bus1phone2.1.csv,kaust,bus,81209,84649,55006,bus1phone2.1
+bus2phone3.1.csv,kaust,bus,0,86399,63719,bus2phone3.1
+bus2phone4.1.csv,kaust,bus,0,86399,63606,bus2phone4.1
+bus_colored_kaust_001.csv,kaust,bus,48067,49414,15010,bus_colored_kaust_001
+bus_colored_kaust_002.csv,kaust,bus,60837,63403,33289,bus_colored_kaust_002
+bus_colored_kaust_003.csv,kaust,bus,63895,64594,7773,bus_colored_kaust_003
+bus_colored_kaust_004.csv,kaust,bus,47648,48515,9714,bus_colored_kaust_004
+bus_colored_kaust_005.csv,kaust,bus,57885,60812,32244,bus_colored_kaust_005
+bus_colored_kaust_006.csv,kaust,bus,57986,60814,31246,bus_colored_kaust_006
+bus_colored_kaust_007.csv,kaust,bus,57939,60820,31471,bus_colored_kaust_007
+car_kaust_042.csv,kaust,car,81109,84646,53507,car_kaust_042
+car_kaust_043.csv,kaust,car,81108,84651,53686,car_kaust_043
+car_kaust_044.csv,kaust,car,0,86399,70654,car_kaust_044
+car_kaust_045.csv,kaust,car,0,86399,71583,car_kaust_045
+car_kaust_046.csv,kaust,car,6959,7205,2527,car_kaust_046
+car_kaust_047.csv,kaust,car,6356,6910,5518,car_kaust_047
+car_kaust_048.csv,kaust,car,10497,11125,6457,car_kaust_048
+car_kaust_049.csv,kaust,car,11776,13353,16236,car_kaust_049
+jog 0.csv,kaust,jog,21984,24288,31826,jog 0
+jog 1.csv,kaust,jog,21807,24910,60427,jog 1
+jog 2.csv,kaust,jog,72088,74098,32113,jog 2
+jog 3.csv,kaust,jog,78826,80065,23911,jog 3
+jog 4.csv,kaust,jog,77282,78420,22284,jog 4
+jog 5.csv,kaust,jog,68704,69550,17163,jog 5
+jog 6.csv,kaust,jog,26184,29908,75770,jog 6
+jog 7.csv,kaust,jog,68495,69618,22030,jog 7
+motorcycle 0.csv,kaust,motorcycle,71911,72638,13579,motorcycle 0
+motorcycle 1.csv,kaust,motorcycle,73418,74173,14107,motorcycle 1
+motorcycle 2.csv,kaust,motorcycle,74189,74967,15500,motorcycle 2
+motorcycle 3.csv,kaust,motorcycle,65632,66340,12481,motorcycle 3
+motorcycle 4.csv,kaust,motorcycle,72654,73401,13331,motorcycle 4
+motorcycle 5.csv,kaust,motorcycle,71151,71887,14402,motorcycle 5
+motorcycle 6.csv,kaust,motorcycle,69202,69522,6533,motorcycle 6
+motorcycle 7.csv,kaust,motorcycle,67074,67799,13878,motorcycle 7
+motorcycle 8.csv,kaust,motorcycle,67825,68485,12603,motorcycle 8
+motorcycle 9.csv,kaust,motorcycle,66380,67048,11982,motorcycle 9
+scooter 0.csv,kaust,scooter,68311,69780,29848,scooter 0
+scooter 1.csv,kaust,scooter,39408,40096,13109,scooter 1
+scooter 10.csv,kaust,scooter,31561,33462,37052,scooter 10
+scooter 11.csv,kaust,scooter,75679,78019,46138,scooter 11
+scooter 12.csv,kaust,scooter,52517,53500,18019,scooter 12
+scooter 13.csv,kaust,scooter,59124,60224,22064,scooter 13
+scooter 14.csv,kaust,scooter,57475,58550,18513,scooter 14
+scooter 15.csv,kaust,scooter,43436,45217,35809,scooter 15
+scooter 16.csv,kaust,scooter,45958,47394,29280,scooter 16
+scooter 17.csv,kaust,scooter,27215,28155,15609,scooter 17
+scooter 18.csv,kaust,scooter,62794,63634,15848,scooter 18
+scooter 19.csv,kaust,scooter,31880,32455,8707,scooter 19
+scooter 2.csv,kaust,scooter,42650,43849,23549,scooter 2
+scooter 20.csv,kaust,scooter,62671,63727,16566,scooter 20
+scooter 21.csv,kaust,scooter,41877,42927,21131,scooter 21
+scooter 22.csv,kaust,scooter,77508,79645,42015,scooter 22
+scooter 23.csv,kaust,scooter,68507,70716,44945,scooter 23
+scooter 24.csv,kaust,scooter,68487,70747,44762,scooter 24
+scooter 25.csv,kaust,scooter,77611,79566,39773,scooter 25
+scooter 26.csv,kaust,scooter,68469,70772,46789,scooter 26
+scooter 27.csv,kaust,scooter,77419,79605,44522,scooter 27
+scooter 28.csv,kaust,scooter,68453,70806,47343,scooter 28
+scooter 3.csv,kaust,scooter,73564,75294,33398,scooter 3
+scooter 4.csv,kaust,scooter,29506,30373,13709,scooter 4
+scooter 5.csv,kaust,scooter,29598,31094,30053,scooter 5
+scooter 6.csv,kaust,scooter,34808,35817,19982,scooter 6
+scooter 7.csv,kaust,scooter,57474,59859,42774,scooter 7
+scooter 8.csv,kaust,scooter,36668,37942,25231,scooter 8
+scooter 9.csv,kaust,scooter,84301,86259,34170,scooter 9
+walk_kaust_073.csv,kaust,walk,59243,59892,5596,walk_kaust_073
+walk_kaust_074.csv,kaust,walk,64218,65399,17819,walk_kaust_074
+walk_kaust_075.csv,kaust,walk,67503,68424,15008,walk_kaust_075
+walk_kaust_076.csv,kaust,walk,76453,78600,34073,walk_kaust_076
+walk_kaust_077.csv,kaust,walk,30302,31422,16488,walk_kaust_077
+walk_kaust_078.csv,kaust,walk,47361,48242,13283,walk_kaust_078
+walk_kaust_079.csv,kaust,walk,30058,30973,14251,walk_kaust_079
+walk_kaust_080.csv,kaust,walk,76194,77006,12717,walk_kaust_080
+walk_kaust_081.csv,kaust,walk,21323,21986,10722,walk_kaust_081
+walk_kaust_082.csv,kaust,walk,25614,26699,17289,walk_kaust_082
+walk_kaust_083.csv,kaust,walk,30967,31578,9027,walk_kaust_083
+walk_kaust_084.csv,kaust,walk,68814,70400,23300,walk_kaust_084
+walk_kaust_085.csv,kaust,walk,71223,72128,14713,walk_kaust_085
+walk_kaust_086.csv,kaust,walk,76672,77835,18935,walk_kaust_086
+walk_kaust_087.csv,kaust,walk,43011,44298,18626,walk_kaust_087
+walk_kaust_088.csv,kaust,walk,0,86399,20517,walk_kaust_088
+walk_kaust_089.csv,kaust,walk,30485,31719,17282,walk_kaust_089
+walk_kaust_090.csv,kaust,walk,64719,67016,35897,walk_kaust_090
+walk_kaust_091.csv,kaust,walk,72547,73965,22399,walk_kaust_091
+walk_kaust_092.csv,kaust,walk,84606,86345,24081,walk_kaust_092
+walk_kaust_093.csv,kaust,walk,32357,33492,16877,walk_kaust_093
+walk_kaust_094.csv,kaust,walk,53121,54918,25889,walk_kaust_094
+walk_kaust_095.csv,kaust,walk,67101,68397,19663,walk_kaust_095
+walk_kaust_096.csv,kaust,walk,70909,74662,56918,walk_kaust_096
+walk_kaust_097.csv,kaust,walk,64539,67754,41482,walk_kaust_097
+walk_kaust_098.csv,kaust,walk,48977,50265,18449,walk_kaust_098
+walk_kaust_099.csv,kaust,walk,76507,80324,61822,walk_kaust_099
+walk_kaust_100.csv,kaust,walk,70636,75453,77890,walk_kaust_100
+walk_kaust_101.csv,kaust,walk,76529,80325,49292,walk_kaust_101
+walk_kaust_102.csv,kaust,walk,70631,75452,76862,walk_kaust_102
+walk_kaust_103.csv,kaust,walk,46653,47330,10845,walk_kaust_103
+walk_kaust_104.csv,kaust,walk,66407,69496,31496,walk_kaust_104
+walk_kaust_105.csv,kaust,walk,2009,3934,21566,walk_kaust_105
+walk_kaust_106.csv,kaust,walk,1194,2057,9412,walk_kaust_106
+walk_kaust_107.csv,kaust,walk,2397,3469,11750,walk_kaust_107
+walk_kaust_108.csv,kaust,walk,3946,6500,28199,walk_kaust_108
+walk_kaust_109.csv,kaust,walk,37702,38684,14703,walk_kaust_109
+walk_kaust_110.csv,kaust,walk,23893,27519,54665,walk_kaust_110
+walk_kaust_111.csv,kaust,walk,67875,68608,12097,walk_kaust_111
+walk_kaust_112.csv,kaust,walk,49848,50453,15783,walk_kaust_112
+walk_kaust_113.csv,kaust,walk,67557,68307,18860,walk_kaust_113
+walk_kaust_114.csv,kaust,walk,4264,7321,34103,walk_kaust_114
+walk_kaust_115.csv,kaust,walk,63977,65794,28846,walk_kaust_115
+walk_kaust_116.csv,kaust,walk,37001,38822,26742,walk_kaust_116
+walk_kaust_117.csv,kaust,walk,32504,33115,6606,walk_kaust_117
+walk_kaust_118.csv,kaust,walk,33431,34648,13313,walk_kaust_118
+walk_kaust_119.csv,kaust,walk,59508,60235,19018,walk_kaust_119
+walk_kaust_120.csv,kaust,walk,62876,63593,18658,walk_kaust_120
+walk_kaust_121.csv,kaust,walk,38966,39575,9294,walk_kaust_121
+walk_kaust_122.csv,kaust,walk,45206,46015,13095,walk_kaust_122
+walk_kaust_123.csv,kaust,walk,58197,58802,15821,walk_kaust_123
+walk_kaust_124.csv,kaust,walk,45484,45933,6842,walk_kaust_124
+walk_kaust_125.csv,kaust,walk,38721,38769,435,walk_kaust_125
+walk_kaust_126.csv,kaust,walk,64230,64825,9855,walk_kaust_126
+walk_kaust_127.csv,kaust,walk,43504,44056,8660,walk_kaust_127
+walk_kaust_128.csv,kaust,walk,73253,73947,10244,walk_kaust_128
+walk_kaust_129.csv,kaust,walk,33765,34374,9237,walk_kaust_129
+walk_kaust_130.csv,kaust,walk,63487,64092,6651,walk_kaust_130
+walk_kaust_131.csv,kaust,walk,79607,80321,7379,walk_kaust_131
+walk_kaust_132.csv,kaust,walk,44035,44642,8406,walk_kaust_132
+walk_kaust_133.csv,kaust,walk,52586,53144,8117,walk_kaust_133
+walk_kaust_134.csv,kaust,walk,59665,60205,7099,walk_kaust_134
+walk_kaust_135.csv,kaust,walk,63199,64130,14822,walk_kaust_135
+walk_kaust_136.csv,kaust,walk,71340,71750,4114,walk_kaust_136
+walk_kaust_137.csv,kaust,walk,39492,40222,10327,walk_kaust_137
+walk_kaust_138.csv,kaust,walk,54761,55518,8762,walk_kaust_138
+walk_kaust_139.csv,kaust,walk,65635,66349,11446,walk_kaust_139
+walk_kaust_140.csv,kaust,walk,84460,85816,22006,walk_kaust_140
+walk_kaust_141.csv,kaust,walk,34644,35634,15257,walk_kaust_141
+car_kz_050.csv,kz,car,36362,37790,25435,car_kz_050
+car_kz_051.csv,kz,car,43766,44939,14223,car_kz_051
+car_kz_052.csv,kz,car,82913,85079,25954,car_kz_052
+car_kz_053.csv,kz,car,42561,43667,13817,car_kz_053
+car_kz_054.csv,kz,car,78599,79474,10431,car_kz_054
+car_kz_055.csv,kz,car,41403,43072,19849,car_kz_055
+car_kz_056.csv,kz,car,60977,62268,15846,car_kz_056
+car_kz_057.csv,kz,car,47398,48710,15272,car_kz_057
+walk_kz_142.csv,kz,walk,49404,50198,14788,walk_kz_142
+bus_mekkah_012.csv,mekkah,bus,26775,28663,31967,bus_mekkah_012
+bus_mekkah_013.csv,mekkah,bus,24474,26376,31741,bus_mekkah_013
+bus_mekkah_014.csv,mekkah,bus,31740,33607,29866,bus_mekkah_014
+bus_mekkah_015.csv,mekkah,bus,33704,35804,32305,bus_mekkah_015
+bus_mekkah_016.csv,mekkah,bus,36541,37162,9868,bus_mekkah_016
+bus_mekkah_017.csv,mekkah,bus,37847,39668,26298,bus_mekkah_017
+bus_mekkah_018.csv,mekkah,bus,39781,41063,20002,bus_mekkah_018
+bus_mekkah_019.csv,mekkah,bus,54063,55985,20896,bus_mekkah_019
+bus_mekkah_020.csv,mekkah,bus,56064,58018,21516,bus_mekkah_020
+bus_mekkah_021.csv,mekkah,bus,58060,59927,20454,bus_mekkah_021
+bus_mekkah_022.csv,mekkah,bus,59972,61967,22862,bus_mekkah_022
+bus_mekkah_023.csv,mekkah,bus,53978,56046,22424,bus_mekkah_023
+bus_mekkah_024.csv,mekkah,bus,56152,58055,21145,bus_mekkah_024
+bus_mekkah_025.csv,mekkah,bus,58113,59940,20445,bus_mekkah_025
+bus_mekkah_026.csv,mekkah,bus,59983,61942,21886,bus_mekkah_026
+bus_mekkah_027.csv,mekkah,bus,24370,26249,28572,bus_mekkah_027
+bus_mekkah_028.csv,mekkah,bus,26522,28398,31522,bus_mekkah_028
+car_mekkah_058.csv,mekkah,car,36985,39841,47422,car_mekkah_058
+car_mekkah_059.csv,mekkah,car,36177,37925,19807,car_mekkah_059
+car_mekkah_060.csv,mekkah,car,24581,26414,32072,car_mekkah_060
+car_mekkah_061.csv,mekkah,car,26489,28475,33461,car_mekkah_061
+car_mekkah_062.csv,mekkah,car,32330,34199,33776,car_mekkah_062
+car_mekkah_063.csv,mekkah,car,34269,36155,31982,car_mekkah_063
+car_mekkah_064.csv,mekkah,car,45137,47272,23343,car_mekkah_064
+car_mekkah_065.csv,mekkah,car,47691,49381,19026,car_mekkah_065
+car_mekkah_066.csv,mekkah,car,49517,51806,26827,car_mekkah_066
+train_mekkah_067.csv,mekkah,train,268,3967,58889,train_mekkah_067
+train_mekkah_068.csv,mekkah,train,5545,9252,35802,train_mekkah_068
+walk_mekkah_143.csv,mekkah,walk,59867,63538,43254,walk_mekkah_143
+walk_mekkah_144.csv,mekkah,walk,76752,78617,31577,walk_mekkah_144
+walk_mekkah_145.csv,mekkah,walk,78657,80636,36774,walk_mekkah_145
+walk_mekkah_146.csv,mekkah,walk,83277,85291,33641,walk_mekkah_146
+walk_mekkah_147.csv,mekkah,walk,3766,5832,38492,walk_mekkah_147
+walk_mekkah_148.csv,mekkah,walk,4168,6068,29512,walk_mekkah_148
+walk_mekkah_149.csv,mekkah,walk,8868,10763,31321,walk_mekkah_149
+walk_mekkah_150.csv,mekkah,walk,25860,26826,11040,walk_mekkah_150
+walk_mekkah_151.csv,mekkah,walk,26889,28106,12435,walk_mekkah_151
+walk_mekkah_152.csv,mekkah,walk,28154,29366,12976,walk_mekkah_152
+walk_mekkah_153.csv,mekkah,walk,29440,30129,7069,walk_mekkah_153
+walk_mekkah_154.csv,mekkah,walk,1754,3755,19863,walk_mekkah_154
+walk_mekkah_155.csv,mekkah,walk,3866,5195,10769,walk_mekkah_155
+walk_mekkah_156.csv,mekkah,walk,5387,6194,8493,walk_mekkah_156
+walk_mekkah_157.csv,mekkah,walk,29900,32046,22147,walk_mekkah_157
+walk_mekkah_158.csv,mekkah,walk,284,2330,20942,walk_mekkah_158
+walk_mekkah_159.csv,mekkah,walk,2406,4567,23136,walk_mekkah_159
+walk_mekkah_160.csv,mekkah,walk,27692,29808,21857,walk_mekkah_160

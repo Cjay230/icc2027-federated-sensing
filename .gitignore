@@ -1,0 +1,27 @@
+# Raw and intermediate measurement data -- belongs to the KAUST corpus, never commit
+rebuilt_cache/
+*_60s_sess.csv
+raw/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,36 @@
+Rebuilding 60s windows with journey IDs
+======================================================================
+  jeddah   loading 77 of the file's columns
+  jeddah   old  1304  new  1304  counts_match=True  features_identical=True  journeys=21
+  kaust    loading 78 of the file's columns
+  kaust    old  4099  new  4099  counts_match=True  features_identical=True  journeys=152
+  kz       loading 71 of the file's columns
+  kz       old   201  new   201  counts_match=True  features_identical=True  journeys=9
+  mekkah   loading 83 of the file's columns
+  mekkah   old  1490  new  1490  counts_match=True  features_identical=True  journeys=46
+
+======================================================================
+TOTAL  old 7094  new 7094
+ALL CITIES: window counts and feature values reproduce the existing cache exactly.
+
+journeys per label, per city:
+  jeddah
+    car            686 windows   13 journeys
+    walk           329 windows    4 journeys
+    bus            289 windows    4 journeys
+  kaust
+    walk          1614 windows   69 journeys
+    scooter        753 windows   29 journeys
+    bike           537 windows   17 journeys
+    bus            489 windows   11 journeys
+    car            324 windows    8 journeys
+    jog            262 windows    8 journeys
+    motorcycle     120 windows   10 journeys
+  kz
+    car            187 windows    8 journeys
+    walk            14 windows    1 journeys   <-- single journey, cannot be split
+  mekkah
+    walk           545 windows   18 journeys
+    bus            522 windows   17 journeys
+    car            311 windows    9 journeys
+    train          112 windows    2 journeys
