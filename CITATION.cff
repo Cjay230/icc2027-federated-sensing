@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this code or the results in it, please cite the paper below."
+title: "Federated Network-Level Sensing: code and derived results"
+abstract: >-
+  Analysis scripts and aggregate result files behind the paper "Federated
+  Network-Level Sensing: Challenges and Lessons from Real-World Cellular Data".
+  Includes the isolation-versus-scarcity intervention, the evaluation-hazard
+  diagnostics, the observation-proportional federated rule and its factorial
+  ablation. Raw measurements are not included.
+authors:
+  - family-names: Jaffal
+    given-names: Carla
+    affiliation: American University of Beirut
+  - family-names: Alhaj
+    given-names: Khalil
+    affiliation: American University of Beirut
+  - family-names: Zhagyparova
+    given-names: Kalamkas
+    affiliation: King Abdullah University of Science and Technology
+  - family-names: Kouzayha
+    given-names: Nour
+    affiliation: King Abdullah University of Science and Technology
+  - family-names: Al-Naffouri
+    given-names: Tareq Y.
+    affiliation: King Abdullah University of Science and Technology
+  - family-names: Tajeddine
+    given-names: Razane
+    affiliation: Aalto University
+  - family-names: Sarieddeen
+    given-names: Hadi
+    affiliation: American University of Beirut
+keywords:
+  - federated learning
+  - network-level sensing
+  - cross-silo learning
+  - structural class absence
+  - cellular sensing
+  - evaluation methodology
+preferred-citation:
+  type: conference-paper
+  title: "Federated Network-Level Sensing: Challenges and Lessons from Real-World Cellular Data"
+  collection-title: "IEEE International Conference on Communications (ICC)"
+  year: 2027
+  notes: "Under review. Update with DOI and page numbers on acceptance."
+  authors:
+    - family-names: Jaffal
+      given-names: Carla
+    - family-names: Alhaj
+      given-names: Khalil
+    - family-names: Zhagyparova
+      given-names: Kalamkas
+    - family-names: Kouzayha
+      given-names: Nour
+    - family-names: Al-Naffouri
+      given-names: Tareq Y.
+    - family-names: Tajeddine
+      given-names: Razane
+    - family-names: Sarieddeen
+      given-names: Hadi

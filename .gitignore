@@ -21,6 +21,9 @@ venv/
 *.fdb_latexmk
 *.fls
 
+# Redundant print-out of docs/WALKTHROUGH.md; kept out of the repo
+code/Code Walkthrough.pdf
+
 # OS
 Thumbs.db
 desktop.ini
